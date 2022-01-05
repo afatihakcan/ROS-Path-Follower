@@ -1,7 +1,7 @@
 # ROS-Path-Follower
 
 Path follower with PID controller and OpenCV
-Features: 
+<br><br>Features: 
   <br>
   <br>
   -Adaptive Speed <br>
